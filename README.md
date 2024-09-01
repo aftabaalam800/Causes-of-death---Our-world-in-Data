@@ -1,4 +1,4 @@
-**SQL Problem Solving and Data Visualization**
+****SQL Problem Solving and Data Visualization****
 
 Welcome to my GitHub repository where I solve a variety of SQL problems and create an interactive dashboard using Power BI.
 
