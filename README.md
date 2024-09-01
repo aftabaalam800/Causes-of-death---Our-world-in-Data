@@ -19,15 +19,25 @@ I categorized the problems into different levels and topics:
 
 Basic Queries: Simple retrieval and filtering of data.
 Aggregation & Grouping: Summarizing data using aggregate functions.
+
 Joins & Subqueries: Combining multiple datasets and complex filtering.
+
 Window Functions: Advanced calculations across a dataset.
+
 Advanced Aggregation: More intricate summarization techniques.
+
 Advanced Filtering: Complex criteria for data retrieval.
+
 Data Modification: Creating, updating, and deleting data.
+
 Complex Queries: Multi-step queries involving advanced SQL concepts.
+
 Analytical Queries: Analysis using SQL functions and custom logic.
+
 Data Exploration & Visualization: Preparing data for visualization.
+
 Key Problems Solved
+
 Retrieve total deaths caused by "Meningitis" in Afghanistan over all available years.
 Calculate the running total of deaths caused by "HIV/AIDS" from 2007 to 2016.
 Write a query to predict the number of deaths for "Cardiovascular diseases" in 2018 based on historical data.
@@ -36,14 +46,19 @@ Data Visualization with Power BI
 The final part of the project involved creating an attractive and interactive dashboard using Power BI. The dashboard includes:
 
 Time Series Charts: Showing trends over the years.
+
 Correlation Analysis: Visualizing relationships between different causes of death.
+
 Pivot Tables: Summarizing deaths by cause and year.
+
 Heatmaps: Displaying the concentration of deaths across different causes and years.
 
 # How to Use This Repository
 
 SQL Solutions: The SQL_Solutions folder contains all the SQL queries used to solve the problems.
+
 Power BI Dashboard: The Power_BI folder includes the .pbix file for the Power BI dashboard. You can open this file in Power BI Desktop to explore the visualizations.
+
 Datasets: The Datasets folder contains the data used for analysis.
 
 # Conclusion
